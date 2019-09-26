@@ -4,8 +4,7 @@
 ## LM
 1. [Do Massively Pretrained Language Models Make Better Storytellers?](https://arxiv.org/pdf/1909.10705.pdf)
 
-2. Title : Numeracy for Language Models: Evaluating and Improving their Ability to Predict Numbers
-   URL :  https://arxiv.org/pdf/1805.08154.pdf
+2. [Numeracy for Language Models: Evaluating and Improving their Ability to Predict Numbers](https://arxiv.org/pdf/1805.08154.pdf)
 
 
 ## Sequence Prediction 

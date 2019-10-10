@@ -28,7 +28,9 @@
 
 13. [Using Contextual Speller Techniques and Language Modeling for ESL Error Correction](https://www.aclweb.org/anthology/I08-1059)
 
+14. [An Empirical Study of Smoothing Techniques for Language Modeling](https://dash.harvard.edu/bitstream/handle/1/25104739/tr-10-98.pdf)
 
+15. [Modified Kneser-Ney Smoothing of n-gram Models](https://core.ac.uk/download/pdf/22877567.pdf)
 ## Sequence Prediction 
 
 1. [Learning A Unified Named Entity Tagger From Multiple Partially Annotated Corpora For Efficient Adaptation]( https://arxiv.org/pdf/1909.11535.pdf)
@@ -37,7 +39,7 @@
 
 3. [POS Tags and Decision Trees for Language Modeling ](https://www.aclweb.org/anthology/W99-0617)
 
-4. [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/pdf/1508.01991.pdf)
+(Remove)4. [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/pdf/1508.01991.pdf)
 
 5. [TnT -- A Statistical Part-of-Speech Tagger ](https://arxiv.org/pdf/cs/0003055.pdf)
 

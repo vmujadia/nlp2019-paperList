@@ -39,23 +39,21 @@
 
 3. [POS Tags and Decision Trees for Language Modeling ](https://www.aclweb.org/anthology/W99-0617)
 
-(Remove)4. [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/pdf/1508.01991.pdf)
+4. [TnT -- A Statistical Part-of-Speech Tagger ](https://arxiv.org/pdf/cs/0003055.pdf)
 
-5. [TnT -- A Statistical Part-of-Speech Tagger ](https://arxiv.org/pdf/cs/0003055.pdf)
+5. [A Maximum Entropy Model for Part-Of-Speech Tagging ](https://www.aclweb.org/anthology/W96-0213)
 
-6. [A Maximum Entropy Model for Part-Of-Speech Tagging ](https://www.aclweb.org/anthology/W96-0213)
+6. [Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)
 
-7. [Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)
+7. [A SIMPLE RULE-BASED PART OF SPEECH TAGGER](https://gawron.sdsu.edu/compling/course_core/readings/BRILL92.PDF)
 
-8. [A SIMPLE RULE-BASED PART OF SPEECH TAGGER](https://gawron.sdsu.edu/compling/course_core/readings/BRILL92.PDF)
+8. [Text Chunking using Regularized Winnow](https://www.aclweb.org/anthology/P01-1069)
 
-9. [Text Chunking using Regularized Winnow](https://www.aclweb.org/anthology/P01-1069)
+9. [Named Entity Recognition in Tweets: An Experimental Study](https://www.aclweb.org/anthology/D11-1141)
 
-10. [Named Entity Recognition in Tweets: An Experimental Study](https://www.aclweb.org/anthology/D11-1141)
+10. [Detecting Errors in Part-of-Speech Annotation](https://www.aclweb.org/anthology/E03-1068)
 
-11. [Detecting Errors in Part-of-Speech Annotation](https://www.aclweb.org/anthology/E03-1068)
-
-12. [Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms](https://www.aclweb.org/anthology/W02-1001)
+11. [Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms](https://www.aclweb.org/anthology/W02-1001)
 
 
 
